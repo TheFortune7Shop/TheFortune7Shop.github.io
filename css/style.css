@@ -142,6 +142,12 @@ body {
   height: 100%;
 }
 
+.tcpdf {
+ 
+  height: 1000px;
+  width: 1300px;
+}
+
 .profile-image {
   width: 150px;
   border-radius: 50%;
